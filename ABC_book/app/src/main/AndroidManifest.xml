@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.abc_book">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ABC_book">
+        <activity
+            android:name=".Activity_Z"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Y"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_X"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_V"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_W"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_U"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_T"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_S"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_R"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_P"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_Q"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_O"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_N"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_M"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_L"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_K"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_J"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_I"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_H"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_G"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_F"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_E"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_D"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_C"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_B"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_A"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
