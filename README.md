@@ -1,6 +1,8 @@
 # SMD_A2
 ABC basic alphabet app
 
+---------------------Latest version of the app is in Master branch.-----------------
+
 Note. Please disable Dark Mode while using the app.
 install the .apk file to test the app.
 ![WhatsApp Image 2022-04-03 at 8 33 46 AM](https://user-images.githubusercontent.com/69959497/161410241-3e376435-d65b-4265-97a2-3c22ce611981.jpeg)
